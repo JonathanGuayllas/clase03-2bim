@@ -21,6 +21,7 @@ public class EjecutaEstudiante {
         int tipoEstudiante;
         String continuar;
         int contador;
+        // puedo guardar los objetos de las subclases
         Estudiante [] estudiantes = new Estudiante[4];
 
         // Incio ciclo repetitivo que permite generar 10 objetos de tipo
