@@ -6,7 +6,7 @@
 package paquete07;
 
 import java.util.ArrayList;
-
+// hacer en base del diagrama
 /**
  *
  * @author reroes
